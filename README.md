@@ -1,1 +1,3 @@
-# devops-aula01
+# Nome: Linic
+# Empresa: Liderança
+# Função: Encarregado
